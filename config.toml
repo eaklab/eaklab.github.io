@@ -2,9 +2,9 @@
 #================ Docs: https://github.com/isunjn/serene/wiki ============================
 #=========================================================================================
 
-base_url = "https://example.com" # The domain of your site
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+base_url = "https://eaklab.github.io/" # The domain of your site
+title = "EAK Lab"
+description = "Lab for Computational Models of Language and Behavior"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -35,12 +35,12 @@ anchors = "on"
 
 #=========================================================================================
 [extra]
-name = "xxxx"                    # Your name
-id = "xxxx"                      # Your id/username/handle
-bio = "xxxx"                     # Your bio
-avatar = "img/avatar.webp"       # Your avatar
+name = "Computational Models of Language and Behavior"                    # Your name
+id = "defg"                      # Your id/username/handle
+bio = "some other description"                     # Your bio
+avatar = "img/avatar.png"       # Your avatar
 
-show_id = true                   # Whether to show your id in homepage
+show_id = false                   # Whether to show your id in homepage
 show_projects = true             # Whether to show projects page
 
 #============== Icons, you can choose at https://remixicon.com/ ====
@@ -53,7 +53,7 @@ toc_icon = "ri-menu-2-line"
 #============== Social media links =================================
 links = [
     {name = "GitHub", icon = "ri-github-line", url = "https://github.com/<your-username>"},
-    {name = "Twitter", icon = "ri-twitter-line", url = "https://twitter.com/<your-username>"},
+    #{name = "Twitter", icon = "ri-twitter-line", url = "https://twitter.com/<your-username>"},
     {name = "Email", icon = "ri-mail-line", url = "mailto:<your-email-address>"}
     # Your can add more links
 ]
