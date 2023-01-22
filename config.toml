@@ -4,7 +4,7 @@
 
 base_url = "https://eaklab.github.io/" # The domain of your site
 title = "EAK Lab"
-description = "Lab for Computational Models of Language and Behavior"
+description = "Computational Methods for Language and Behavior Research"
 default_language = "en"
 theme = "serene"
 output_dir = "public"
@@ -35,7 +35,7 @@ anchors = "on"
 
 #=========================================================================================
 [extra]
-name = "Computational Models of Language and Behavior"                    # Your name
+name = "Computational Methods for Language and Behavior Research"                    # Your name
 id = "defg"                      # Your id/username/handle
 bio = "some other description"                     # Your bio
 avatar = "img/avatar.png"       # Your avatar
