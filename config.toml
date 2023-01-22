@@ -3,7 +3,7 @@
 #=========================================================================================
 
 base_url = "https://eaklab.github.io/" # The domain of your site
-title = "EAK Lab"
+title = "eaklab"
 description = "Computational Methods for Language and Behavior Research"
 default_language = "en"
 theme = "serene"
